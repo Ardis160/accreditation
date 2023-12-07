@@ -1,6 +1,6 @@
 <učitelé>
             <vyučující id="V001">
-                <jméno_příjmení>Jan Novák</jméno_příjmení>
+                <jméno_příjmení>Emil Novák</jméno_příjmení>
                 <rok_narození>1980</rok_narození>
                 <typ_vztahu>PP</typ_vztahu>
                 <tituly_před>Mgr.</tituly_před>
