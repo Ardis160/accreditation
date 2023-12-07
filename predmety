@@ -1,0 +1,135 @@
+<předměty>
+            <předmět id="P001" tmpl:merge="animace_teorie">
+                <název>Animace a teorie</název>
+                <typ>ZT</typ>
+                <ročník>1</ročník>
+                <semestr>ZS</semestr>
+                <počet_kreditů>5</počet_kreditů>
+                <ověření_výsledků>zkouška</ověření_výsledků>
+                <forma_ověření>Písemná zkouška</forma_ověření>
+                <výuka>
+                    <plán id="PL001">
+                        <!--přednáška a cvičení: nadřazené elementy nad paraskupinou-->
+                        <přednáška>
+                            <specifikace_výuky>
+                                <rozsah jednotka="h/týden">
+                                    <počet>2</počet>                                        
+                                </rozsah>
+                                <vyučující_ref>V001</vyučující_ref>
+                            </specifikace_výuky>
+                        </přednáška>                                                
+                        <cvičení>
+                            <paralelní_skupina>
+                                <specifikace_výuky>
+                                    <rozsah jednotka="h/týden">
+                                        <počet>1</počet>                                        
+                                    </rozsah>
+                                    <vyučující_ref>V002</vyučující_ref>
+                                </specifikace_výuky>                          
+                            </paralelní_skupina>
+                            <paralelní_skupina>
+                                <specifikace_výuky>
+                                    <rozsah jednotka="h/týden">
+                                        <počet>1</počet>                                        
+                                    </rozsah>
+                                    <vyučující_ref>V003</vyučující_ref>
+                                </specifikace_výuky>                          
+                            </paralelní_skupina>                                               
+                        </cvičení>                        
+                    </plán>
+                </výuka>
+                <anotace>
+                    <html_text>
+                        <p> Tento předmět se zaměřuje na základní principy animace a teoretické koncepty, které stojí za tvorbou pohyblivých obrázků. 
+                            Studenti budou zkoumat historii animace, různé animační techniky a estetické aspekty animovaného vyprávění. 
+                            Praktické cvičení bude doplněno teoretickými diskuzemi o vývoji animace a jejím vlivu na filmovou tvorbu.</p>
+                    </html_text>
+                </anotace>
+                <garant_ref>V001</garant_ref>
+                <studijníliteratura>https://fud.ujep.cz/aktualne/69093/</studijníliteratura>
+                <konzultace>
+                    <rozsah>2</rozsah>
+                    <info>Konzultační hodiny po domluvě s vyučujícím.</info>
+                </konzultace>
+            </předmět>
+            <předmět id="P002" tmpl:merge="techniky_stopmotion">
+                <název>Techniky stop-motion animace</název>
+                <typ>ZT</typ>
+                <ročník>1</ročník>
+                <semestr>LS</semestr>
+                <počet_kreditů>6</počet_kreditů>
+                <prerekvizity>P001</prerekvizity>
+                <ověření_výsledků>zápočet se zkouškou</ověření_výsledků>
+                <forma_ověření>Praktická práce</forma_ověření>
+                <výuka>
+                    <plán id="PL002">
+                        <!--mělo by být více vyučujících-->                       
+                        <cvičení>
+                            <paralelní_skupina>
+                                <specifikace_výuky>
+                                    <rozsah jednotka="h/týden">
+                                        <počet>2</počet>                                        
+                                    </rozsah> <!--možná dát jednotky jako atribut; hotovo-->
+                                    <vyučující_ref>V002</vyučující_ref>
+                                </specifikace_výuky>
+                            </paralelní_skupina>
+                            <paralelní_skupina>
+                                <specifikace_výuky>
+                                    <rozsah jednotka="h/týden">
+                                        <počet>2</počet>                                        
+                                    </rozsah> <!--možná dát jednotky jako atribut; hotovo-->
+                                    <vyučující_ref>V001</vyučující_ref>
+                                </specifikace_výuky>
+                            </paralelní_skupina>
+                        </cvičení>                       
+                    </plán>
+                </výuka>
+                <anotace>
+                    <html_text>
+                        <p> Tento předmět se zabývá technikami stop-motion animace, což je speciální forma animace, kde se pohybující objekty snímají postupnými obrázky. 
+                            Studenti se naučí základy stop-motion animace, včetně tvorby loutek, osvětlení a kompozice snímků. 
+                            Praktické cvičení bude zahrnovat vytvoření vlastního stop-motion animačního projektu.</p> 
+                    </html_text>
+                </anotace>
+                <garant_ref>V002</garant_ref>
+                <studijníliteratura></studijníliteratura>
+                <konzultace>
+                    <rozsah>2</rozsah>
+                    <info>Konzultační hodiny po domluvě s vyučujícím.</info>
+                </konzultace>
+            </předmět> 
+            <předmět id="P003" tmpl:merge="postprodukce_digiefekty">
+                <název>Filmová postprodukce a digitální efekty</název>
+                <typ>ZT</typ>
+                <ročník>2</ročník>
+                <semestr>ZS</semestr>
+                <počet_kreditů>4</počet_kreditů>
+                <ověření_výsledků>zápočet</ověření_výsledků>
+                <forma_ověření>Projekt</forma_ověření>
+                <výuka>
+                    <plán id="PL003">
+                        <seminář>
+                            <specifikace_výuky>
+                                <rozsah jednotka="h/týden">
+                                    <počet>2</počet>                                        
+                                </rozsah>
+                                <vyučující_ref>V003</vyučující_ref>
+                            </specifikace_výuky>
+                        </seminář>
+                    </plán>
+                </výuka>
+                <anotace>
+                    <html_text>
+                        <p>Tento předmět se zaměřuje na proces filmové postprodukce a využití digitálních efektů ve filmovém průmyslu. 
+                            Studenti se seznámí s nástroji a softwarem používanými v postprodukčním procesu, včetně střihu, zvuku a vizuálních efektů. 
+                            Praktická část kurzu zahrnuje vytváření digitálních efektů a úpravu filmových scén.</p>
+                    </html_text>
+                </anotace>
+                <garant_ref>V001</garant_ref>
+                <studijníliteratura>Chemie pro začátečníky</studijníliteratura>
+                <konzultace>
+                    <rozsah>2</rozsah>
+                    <info>Konzultační hodiny po domluvě s vyučujícím.</info>
+                </konzultace>
+            </předmět>      
+        </předměty>
