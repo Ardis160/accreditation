@@ -1,0 +1,205 @@
+<učitelé>
+            <vyučující id="V001">
+                <jméno_příjmení>Jan Novák</jméno_příjmení>
+                <rok_narození>1980</rok_narození>
+                <typ_vztahu>PP</typ_vztahu>
+                <tituly_před>Mgr.</tituly_před>
+                <tituly_za>Ph.D.</tituly_za>
+                <vš_vztah>                   
+                    <rozsah>20</rozsah>
+                    <dokdy>N</dokdy>                    
+                </vš_vztah>
+                <součástvš_vztah>
+                    <typ_vztahu>PP</typ_vztahu>
+                    <rozsah>10</rozsah>
+                    <dokdy>N</dokdy>
+                </součástvš_vztah>
+                <jiné_vš>
+                    <název_sídlo>Univerzita ABC</název_sídlo>
+                    <typ_vztahu>PP</typ_vztahu>
+                    <rozsah>8</rozsah>
+                </jiné_vš>
+                <jiné_vš>
+                    <název_sídlo>Univerzita DEF</název_sídlo>
+                    <typ_vztahu>DPP</typ_vztahu>
+                    <rozsah>1</rozsah>
+                </jiné_vš>
+                <jiné_programy>
+                    <jiný_předmět>Výtvarné techniky I, II</jiný_předmět>
+                    <jiný_program>Výtvarná umění</jiný_program>
+                    <semestr>ZS</semestr>
+                    <role>přednášející</role>
+                    <počet_hodin>4</počet_hodin>
+                </jiné_programy>               
+                <vzdělání>
+                    <studium>
+                        <vš_fakulta>Filmová a televizní fakulta Akademie múzických umění v Praze</vš_fakulta>
+                        <studijní_program>Animovaná tvorba</studijní_program>
+                        <obor></obor>
+                        <max_vzdělání>Bc.</max_vzdělání>
+                        <od>2000</od>
+                        <do>2003</do>
+                    </studium>
+                    <studium>
+                        <vš_fakulta>Tokyo University of the Arts</vš_fakulta>
+                        <studijní_program>Animation</studijní_program>
+                        <obor></obor>
+                        <max_vzdělání>Mgr.</max_vzdělání>
+                        <od>2005</od>
+                        <do>2007</do>
+                    </studium>    
+                    <studium>
+                        <vš_fakulta>École Supérieure des Métiers Artistiques</vš_fakulta>
+                        <studijní_program>Animation</studijní_program>
+                        <obor></obor>
+                        <max_vzdělání>Ph.D.</max_vzdělání>
+                        <od>2015</od>
+                        <do>2021</do>
+                    </studium>                                  
+                </vzdělání>
+                <odborné_působení>
+                    <působení>
+                        <zaměstnavatel>Studio Ghibli</zaměstnavatel>
+                        <pozice>Animator</pozice>
+                        <od>2007</od>
+                        <do>2015</do>
+                        <typ_vztahu>PP</typ_vztahu>
+                    </působení>
+                </odborné_působení>
+                <odborné_působení>
+                    <působení>
+                        <zaměstnavatel>Walt Disney Animation Studios</zaměstnavatel>
+                        <pozice>Character Designer</pozice>
+                        <od>2017</od>
+                        <do>2021</do>
+                        <typ_vztahu>PP</typ_vztahu>
+                    </působení>
+                </odborné_působení>              
+                <zkušenosti>
+                    <bakalářská>5</bakalářská>
+                    <diplomová>2</diplomová>
+                </zkušenosti>                
+                <ohlasy>
+                    <wos>25</wos>
+                    <scopus>30</scopus>
+                    <ostatní>10</ostatní>
+                </ohlasy>
+                <publikační_činnost>Publikace v odborných časopisech v oblasti animace a vědeckého výzkumu.</publikační_činnost>
+                <zahraničí>Studijní pobyty v Německu a USA, kde se zaměřoval na animaci a filmovou tvorbu.</zahraničí>
+            </vyučující>
+            <vyučující id="V002">
+                <jméno_příjmení>Eva Nováková</jméno_příjmení>
+                <rok_narození>1985</rok_narození>
+                <typ_vztahu>DPP/DPČ</typ_vztahu>
+                <tituly_před>Mgr.</tituly_před>                
+                <vš_vztah>
+                    <rozsah>30</rozsah>
+                    <dokdy>N</dokdy>
+                </vš_vztah>               
+                <vzdělání>
+                    <studium>
+                        <vš_fakulta>Filmová a televizní fakulta Akademie múzických umění v Praze</vš_fakulta>
+                        <studijní_program>Animovaná tvorba</studijní_program>
+                        <obor></obor>
+                        <max_vzdělání>Bc.</max_vzdělání>
+                        <od>2004</od>
+                        <do>2008</do>
+                    </studium>
+                    <studium>
+                        <vš_fakulta>Univerzita Tomáše Bati ve Zlíně,
+                            Fakulta multimediálních komunikací</vš_fakulta>
+                        <studijní_program>Animovaná tvorba</studijní_program>
+                        <obor></obor>
+                        <max_vzdělání>Mgr.</max_vzdělání>
+                        <od>2008</od>
+                        <do>2010</do>
+                    </studium>  
+                    <studium>
+                        <vš_fakulta>Filmová a televizní fakulta Akademie múzických umění v Praze</vš_fakulta>
+                        <studijní_program>Animovaná tvorba</studijní_program>
+                        <obor></obor>
+                        <max_vzdělání>Ph.D.</max_vzdělání>
+                        <od>2012</od>
+                        <do></do>
+                    </studium>                  
+                </vzdělání>
+                <odborné_působení>
+                    <působení>
+                        <zaměstnavatel>Francouzský animační ateliér XYZ</zaměstnavatel>
+                        <pozice>Storyboard Artist</pozice>
+                        <od>2011</od>
+                        <do>2021</do>
+                        <typ_vztahu>PP</typ_vztahu>
+                    </působení>
+                </odborné_působení>                
+                <zkušenosti>
+                    <bakalářská>2</bakalářská>
+                </zkušenosti>
+                <ohlasy>
+                    <wos>20</wos>
+                    <scopus>28</scopus>
+                    <ostatní>12</ostatní>
+                </ohlasy>
+                <publikační_činnost>Publikace v odborných časopisech v oblasti animace a vědeckého výzkumu.</publikační_činnost>
+            </vyučující>
+            <vyučující id="V003">
+                <jméno_příjmení>Martin Svoboda</jméno_příjmení>
+                <rok_narození>1975</rok_narození>
+                <typ_vztahu>PP</typ_vztahu>
+                <tituly_před>Mgr.</tituly_před>
+                <tituly_za>Ph.D.</tituly_za>
+                <vš_vztah>
+                    <rozsah>35</rozsah>
+                    <dokdy>09/2024</dokdy>
+                </vš_vztah>   
+               
+                <vzdělání>
+                    <studium>
+                        <vš_fakulta>Ostravská univerzita, Fakulta umění</vš_fakulta>
+                        <studijní_program>Intermediální umění</studijní_program>
+                        <obor>Animovaná tvorba</obor>
+                        <max_vzdělání>Bc.</max_vzdělání>
+                        <od>1994</od>
+                        <do>1997</do>
+                    </studium>
+                    <studium>
+                        <vš_fakulta>Filmová a televizní fakulta Akademie múzických umění v Praze</vš_fakulta>
+                        <studijní_program>Animovaná tvorba</studijní_program>
+                        <obor></obor>
+                        <max_vzdělání>Mgr.</max_vzdělání>
+                        <od>1997</od>
+                        <do>1999</do>
+                    </studium>                    
+                </vzdělání>
+                <odborné_působení>
+                    <působení>
+                        <zaměstnavatel>Barrandov Studio</zaměstnavatel>
+                        <pozice>2D Animator</pozice>
+                        <od>2000</od>
+                        <do>2015</do>
+                        <typ_vztahu>PP</typ_vztahu>
+                    </působení>
+                </odborné_působení>               
+                <odborné_působení>
+                    <působení>
+                        <zaměstnavatel>Parallel Studio</zaměstnavatel>
+                        <pozice>3D Animator</pozice>
+                        <od>2015</od>
+                        <do>2019</do>
+                        <typ_vztahu>PP</typ_vztahu>
+                    </působení>
+                </odborné_působení>
+                <zkušenosti>
+                    <bakalářská>12</bakalářská>
+                    <diplomová>7</diplomová>
+                    <dizertační>2</dizertační>
+                </zkušenosti>               
+                <ohlasy>
+                    <wos>28</wos>
+                    <scopus>35</scopus>
+                    <ostatní>15</ostatní>
+                </ohlasy>
+                <publikační_činnost>Publikace v odborných časopisech v oblasti digitální animace a vědeckého výzkumu.</publikační_činnost>
+                <zahraničí>Studijní pobyty v Kanadě a Japonsku, kde se specializoval na digitální animaci.</zahraničí>
+            </vyučující>
+        </učitelé>
