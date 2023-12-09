@@ -1,0 +1,18 @@
+<skupiny_předmětů>
+    <skupina_předmětů id="Skupina1">
+        <typ>pk</typ>
+        <označení>Skupina předmětů 1</označení>
+        <předměty>
+            <předmět_id>P001</předmět_id>
+            <předmět_id>P002</předmět_id>
+        </předměty>
+    </skupina_předmětů>
+    <skupina_předmětů id="Skupina2">
+        <typ>pvk</typ>
+        <označení>Skupina předmětů 2</označení>
+        <předměty>
+            <předmět_id>P003</předmět_id>
+        </předměty>
+        <podmínky_splnění>huhuhaha</podmínky_splnění>
+    </skupina_předmětů>            
+</skupiny_předmětů>
