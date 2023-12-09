@@ -1,0 +1,79 @@
+<plány>
+            <plán id="Plan1" tmpl:merge="plan_animace1">
+                <označení>Plán 1</označení>
+                <skupiny>
+                    <skupina_id>Skupina1</skupina_id>
+                    <skupina_id>Skupina2</skupina_id>
+                </skupiny>
+                <součásti_szz>
+                    <html_text>
+                        Státní závěrečná zkouška se skládá ze dvou částí, a to z obhajoby bakalářské práce a z ústní odborné zkoušky. Ústní
+                        odborná zkouška se skládá ze dvou okruhů, které spadají do následujících oblastí:
+                        <ul>
+                            <li> 1. Světová část
+                                <li>okruh je tvořen otázkami z historie světové animace (počátky animace ve světě a významné tvůrce, Raná tvorba Walta Disneyho do roku 1942, Tvorba UPA, 
+                                    Animace zemí střední a východní Evropy - Slovensko, Maďarsko, Polsko, Animace Velké Británie, Animace Francie a Itálie, 
+                                    National Film Board of Canada, Nezávislá newyorská animační škola + významná americká animační velko-studia posledních let,
+                                    Japonská autorská animace)</li>
+                            </li>                            
+                            <li> 2. Česká část
+                                <li>okruh tvoří otázky z historie české animace (Počátky animace v Čechách, Loutková tvorba Jiřího Trnky a Vlasty Pospíšilové, Hermína Týrlová, Karel Zeman,
+                                    Loutková tvorba Břetislava Pojara + Václav Mergl, Pavel Procházka, Miroslav Štěpánek, Jiří Brdečka + významní výtvarníci a výtvarnice československé animace,
+                                    Instituce Krátkého filmu a její významné autorské osobnosti na poli animace,
+                                    Fenomén československého večerníčku, významní autoři a autorky, výtvarníci a výtvarnice, 
+                                    Jan Švankmajer, Jiří Barta a česká animace na přelomu 80. a 90. let,
+                                    Nenarativní česká animace na pomezí výtvarných a jiných umění)</li>
+                             </li>                     
+                        </ul>
+                    </html_text>
+                </součásti_szz>
+                <návrhtémat>
+                    <téma>Vývoj techniky stop-motion animace ve světle moderních technologií</téma>
+                    <téma>Analýza estetických prvků v animovaných filmech studia Ghibli</téma>
+                    <téma>Vývoj a vliv počítačové animace na tradiční 2D animaci</téma>
+                    <téma>Animovaná propagace v reklamě a marketingu</téma>
+                    <téma>Psychologické aspekty postav v animaci</téma>
+                    <téma>Vliv kultury na tvorbu animace: porovnání japonského a západního animačního stylu</téma>
+                    <téma>Tvorba interaktivních animovaných her</téma>                
+                </návrhtémat>                
+                <studijnípovinnosti>nejsou</studijnípovinnosti>               
+            </plán>
+            <plán id="Plan2" tmpl:merge="plan_animace2">
+                <označení>Plán 2</označení>
+                <skupiny>
+                    <skupina_id>Skupina1</skupina_id>                    
+                </skupiny>
+                <součásti_szz>
+                    <html_text>
+                        <b>Státní závěrečná zkouška</b> se skládá ze dvou částí, a to z obhajoby bakalářské práce a z ústní odborné zkoušky. Ústní
+                        odborná zkouška se skládá ze dvou okruhů, které spadají do následujících oblastí:
+                        <ul>
+                            <li> 1. Světová část
+                                <li>okruh je tvořen otázkami z historie světové animace (počátky animace ve světě a významné tvůrce, Raná tvorba Walta Disneyho do roku 1942, Tvorba UPA, 
+                                    Animace zemí střední a východní Evropy - Slovensko, Maďarsko, Polsko, Animace Velké Británie, Animace Francie a Itálie, 
+                                    National Film Board of Canada, Nezávislá newyorská animační škola + významná americká animační velko-studia posledních let,
+                                    Japonská autorská animace)</li>
+                            </li>
+                            <li> 2. Česká část
+                                <li>okruh tvoří otázky z historie české animace (Počátky animace v Čechách, Loutková tvorba Jiřího Trnky a Vlasty Pospíšilové, Hermína Týrlová, Karel Zeman,
+                                    Loutková tvorba Břetislava Pojara + Václav Mergl, Pavel Procházka, Miroslav Štěpánek, Jiří Brdečka + významní výtvarníci a výtvarnice československé animace,
+                                    Instituce Krátkého filmu a její významné autorské osobnosti na poli animace,
+                                    Fenomén československého večerníčku, významní autoři a autorky, výtvarníci a výtvarnice, 
+                                    Jan Švankmajer, Jiří Barta a česká animace na přelomu 80. a 90. let,
+                                    Nenarativní česká animace na pomezí výtvarných a jiných umění)</li>
+                             </li>                     
+                        </ul>
+                    </html_text>
+                </součásti_szz>
+                <návrhtémat>
+                    <téma>Vývoj techniky stop-motion animace ve světle moderních technologií</téma>
+                    <téma>Analýza estetických prvků v animovaných filmech studia Ghibli</téma>
+                    <téma>Vývoj a vliv počítačové animace na tradiční 2D animaci</téma>
+                    <téma>Animovaná propagace v reklamě a marketingu</téma>
+                    <téma>Psychologické aspekty postav v animaci</téma>
+                    <téma>Vliv kultury na tvorbu animace: porovnání japonského a západního animačního stylu</téma>
+                    <téma>Tvorba interaktivních animovaných her</téma>                
+                </návrhtémat>
+                <studijnípovinnosti>nejsou</studijnípovinnosti>
+            </plán>
+        </plány>
