@@ -1,2 +1,853 @@
-<haha>
-<xddd>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="kaskady.xslt"?>
+<?xml-model href="verifikace2_updated.rnc" type="application/relax-ng-compact-syntax"?>
+<žádost xmlns:tmpl="https://ki.ujep.cz/template">
+    <program>
+        <jméno>Animovaná tvorba</jméno>
+        <názevvš>Univerzita Jana Evangelisty Purkyně</názevvš>
+        <názevsoučástivš>Fakulta umění a designu</názevsoučástivš>
+        <spolupracujícíinstituce></spolupracujícíinstituce>
+        <typžádosti>udělení</typžádosti>
+        <typprogramu>bakalářský</typprogramu>
+        <profilprogramu>akademicky zaměřený</profilprogramu>
+        <formastudia>prezenční</formastudia>
+        <dobastudia>3</dobastudia>
+        <jazyk>cs</jazyk>
+        <schvalujícíorgán>Rada pro vnitřní hodnocení UJEP</schvalujícíorgán>
+        <titul>Bc.</titul>
+        <rigoróznířízení>false</rigoróznířízení>
+        <garant_ref>V002</garant_ref>
+        <zaměřenívýkonu>true</zaměřenívýkonu>
+        <zaměřeníodborníků>false</zaměřeníodborníků>
+        <uznávacíorgán></uznávacíorgán>
+        <oblastivzdělávání>
+            <oblast jméno_oblasti="Umění" procentuálnost="100"></oblast>            
+        </oblastivzdělávání>
+        <cílestudia>
+            <html_text>
+                <p>Cílem programu <ref idref="P001/název" />  je, aby studenti získali hluboké technické znalosti v práci s průmyslovými nástroji pro animaci, včetně 2D a 3D software pro modelování, texturování, animaci postav a renderování. 
+                Důraz bude také kladen na umělecké dovednosti, jako je kresba, design postav, prostředí a kompozice, což jim umožní vytvářet vizuálně atraktivní animace.
+                Studenti budou také studovat teorii animace, historii animace a umělecké směry, což jim poskytne kontext pro jejich tvorbu. </p>
+                Program bude kladný důraz na tvorbu a vyprávění příběhů skrze animaci, včetně schopnosti vytvářet storyboardy, scénáře a narativní obsah.        
+                Během studia budou studenti mít příležitost získat praxi a vytvořit rozsáhlé portfolio, které zahrnuje různorodé animace a projekty. 
+                <p>Garantem je renomovaný <b><ref idref="V001/tituly_před"/><ref idref="V001/jméno_příjmení" /><ref idref="V001/tituly_za" /></b>.
+                    Program bude také podporovat komunikační dovednosti a schopnost spolupracovat v týmovém prostředí, což je klíčové pro úspěch v animačním průmyslu.        
+                    Absolventi tohoto programu budou připraveni na kariéru v oblasti animace a budou moci hledat stáže a zaměstnání v různých aspektech animační tvorby. 
+                    Budou mít povědomí o nových technologiích a trendech v oblasti animace, včetně rozšířené reality (AR), virtuální reality (VR) a interaktivní animace. 
+                    Program také bude podporovat kritické myšlení a analytické schopnosti studentů, aby mohli hodnotit a zdokonalovat svou práci a přinášet inovace do oblasti animace.</p>
+            </html_text>
+        </cílestudia>
+        <profilabsolventa>
+            <html_text>
+            Absolvent programu animované tvorby je kreativní profesionál s hlubokými technickými dovednostmi a významnými uměleckými schopnostmi. 
+            Tito absolventi mají dovednosti a znalosti potřebné pro úspěšnou kariéru v animačním průmyslu, a to včetně práce s průmyslovými nástroji pro 2D a 3D animaci, modelování, texturování, animaci postav a renderování. 
+            Jsou schopni vytvářet vizuálně atraktivní a poutavé animace s důrazem na kresbu, design postav, prostředí a kompozici.
+            Tito absolventi mají také schopnost vytvářet a vyprávět příběhy prostřednictvím animace a jsou schopni vytvářet storyboardy, scénáře a narativní obsah. 
+            Získali porozumění teorii animace, historii animace a uměleckým směrům, což jim umožňuje kontextualizovat a rozvíjet svou práci.            
+            S významnou praxí a rozsáhlým portfoliem, které zahrnuje různorodé animace a projekty, jsou tito absolventi připraveni prezentovat své dovednosti a kreativitu potenciálním zaměstnavatelům nebo uměleckým institucím. 
+            Jsou schopni efektivně komunikovat a spolupracovat v týmovém prostředí, což je důležité pro úspěch v animačním průmyslu.            
+            Tito absolventi jsou také připraveni na kariéru v animačním průmyslu a jsou schopni hledat stáže a zaměstnání v různých aspektech animační tvorby. 
+            Mají povědomí o nových technologiích a trendech v oblasti animace, včetně rozšířené reality (AR), virtuální reality (VR) a interaktivní animace. 
+            Navíc jsou schopni kriticky analyzovat a hodnotit svou práci a přinášet inovace do oblasti animace
+            </html_text>
+        </profilabsolventa>
+        <uplatnitelnostabsolventů>
+            <html_text>
+                Absolventi programu v oblasti animované tvorby jsou vysoce uplatnitelní profesionálové v animačním průmyslu a příbuzných odvětvích. 
+            Díky kombinaci technických dovedností, umělecké kreativity a teoretických znalostí jsou absolventi připraveni na širokou škálu kariérních možností.
+            Absolventi mají hluboké technické znalosti v oblasti animace a jsou zkušení v práci s průmyslovými nástroji pro 2D a 3D animaci, modelování, texturování, animaci postav a renderování. 
+            Tato dovednostní sada jim umožňuje pracovat na animačních projektech a v různých rolích, jako jsou animátoři, modeláři, texturovači, lighteři a další.        
+            Umělecké dovednosti absolventů zahrnují schopnost kreslit, designovat postavy a prostředí a komponovat vizuálně atraktivní animace. 
+            Toto umělecké nadání je klíčové pro vytváření esteticky přitažlivých a poutavých animací.        
+            Důraz na tvorbu a vyprávění příběhů prostřednictvím animace umožňuje absolventům pracovat na animačních projektech s narativním obsahem. 
+            Jsou schopni vytvářet storyboardy, scénáře a koncepty pro animační filmy, seriály, reklamy a další mediální produkty.        
+            Teoretické znalosti absolventů v oblasti animace a umění jim umožňují porozumět historii animace, uměleckým směrům a současným trendům. 
+            Toto kontextuální porozumění jim umožňuje rozvíjet kreativní a kritické myšlení.        
+            Absolventi jsou také připraveni na kariéru v animačním průmyslu díky praxi a rozsáhlému portfoliu, které obsahuje různorodé animace a projekty. 
+            Jsou schopni hledat stáže, pracovní příležitosti a budovat si kariéru v různých rolích, včetně animátorů, režisérů, designérů a producentů.        
+            S povědomím o nových technologiích, jako jsou rozšířená realita (AR) a virtuální realita (VR), jsou absolventi připraveni na pracovní příležitosti v těchto inovativních odvětvích. 
+            Jsou také schopni přinášet inovace do oblasti animace a přispívat k rozvoji průmyslu.
+            </html_text>
+        </uplatnitelnostabsolventů>
+        <pravdidlapodmínkyprotvorbu>
+            <html_text>
+               <p>Pravidla pro tvorbu v HTML formátu</p>
+            </html_text>        
+        </pravdidlapodmínkyprotvorbu>
+        <podmínkypřijetí>
+            <html_text>
+            Na Univerzitě Jana Evangelisty Purkyně v Ústí nad Labem je používán kreditní systém European Credit Transfer and Accumulation System,
+            popis pracovní zátěže pro jednotlivé předměty a definice výpočtu je zveřejněn na
+            https://fud.ujep.cz/studium/ects-katalog/ects-alokace-kreditu .
+            Studijní plán je sestaven tak, aby umožňoval studentům získání teoretických a zejména praktických znalostí a dovedností,
+            potřebných pro výkon povolání ihned po ukončení bakalářského studia.
+            Celkový počet kreditů pro úspěšné absolvování bakalářského studia je 180 kreditů. Studenti si zapisují v každém
+            akademickém roce předměty za minimální počet kreditů, tj. 60 kreditů. Pro postup do letního semestru 1. ročníku studia
+            musí student získat minimálně 15 kreditů a pro postup do dalšího ročníku studia musí student získat minimálně 30
+            kreditů. Studijní plán je sestaven z povinných a povinně volitelných předmětů, které odpovídají základním teoretickým
+            disciplínám.
+            V prvním ročníku studia tvoří studijní plán zejména předměty teoretického základu, na které pak navazují předměty
+            profilujícího základu. 70% povinných předmětů jsou právě předměty profilujícího základu. Jejich absolvováním tak student
+            získá znalosti a dovednosti, které může uplatnit na trhu a práce a které odpovídají, souvisejí nebo podmiňují znalosti nebo
+            dovednosti ze základních státnicových tematických okruhů.
+            </html_text>        
+        </podmínkypřijetí>
+        <početuchazečů>30</početuchazečů>
+        <návaznost>Absolventi mohou pokračovat studiem navazujícího magisterského studijního programu.</návaznost>
+        <datumschválenížádosti>2023-09-30</datumschválenížádosti>
+        <elpodobažádosti>https://fud.ujep.cz</elpodobažádosti>
+        <studijníopory>https://fud.ujep.cz/</studijníopory>
+        <praxe_odkaz>https://fud.ujep.cz/praxe</praxe_odkaz>
+        <vnitřnípředpisy>https://fud.ujep.cz/studium/dokumenty-a-formulare/</vnitřnípředpisy>             
+        <plán_ref>Plan1</plán_ref>           
+        <záměrrozvoje>Rozvoj studijního programu "Animovaná tvorba" je prioritou naší fakulty. 
+            Naše snaha je zabezpečována standardními finančními prostředky a díky interní grantové agentuře. 
+            Cílem rozvoje programu je nejen udržet jeho kvalitu, ale také ho inovovat a přizpůsobit současným trendům v oblasti animace.
+            Jedním z hlavních cílů je rozšíření nabídky specializací v oblasti animace. 
+            Chceme poskytnout studentům možnost specializace ve 2D, 3D animaci, animaci postav a vizuálních efektech. 
+            Tím jim umožníme získat hlubší a konkrétnější znalosti v oblastech, které je zajímají nebo na které mají talent.        
+            Dalším aspektem rozvoje programu je aktualizace obsahu. 
+            Chceme zajistit, aby náš učební materiál a laboratoře odrážely nejnovější technologické a průmyslové trendy v oblasti animace. 
+            Snažíme se přinést do výuky moderní nástroje a postupy, aby studenti byli připraveni na aktuální výzvy v animačním průmyslu.</záměrrozvoje>
+        <systémvýuky></systémvýuky>
+        <praxe>
+            <charakteristika_praxe>Nejdůležitějším specifikem profesního bakalářského studijního programu je zahrnutí povinné odborné praxe v délce trvání
+                13 týdnů (celý zimní semestr ve 3. ročníku studia, 12 týdnů praxe + 13. týden odborný seminář s prezentací) do studijního
+                plánu. Student bude mít k dispozici seznam spolupracujících organizací, kam se na tuto odbornou praxi může
+                zaregistrovat nebo si organizaci vybírá sám po schválení garantem předmětu. Docházet na praxi pak bude ve stejné
+                časové dotaci, jaká je kladena na zaměstnance těchto organizací. Výstupem pak bude odborná zpráva sepsaná jak
+                pracovníkem zastupujícím danou organizaci, tak samotným studentem. Zápočet student obdrží po odevzdání této
+                seminární práce vyučujícímu a po prezentaci, která bude popisovat jeho průběh praxe před ostatními studenty v ročníku.
+                Tak aby si i ostatní studenti mohli zpětně udělat názor na uplatnění v daném oboru v praxi.
+                Volbou pracoviště , kde bude realizována odborná praxe, se pak student může zaměřit do oblasti, která ho bude zajímat,
+                ve které se bude profilovat, vypracuje závěrečnou práci a během praxe získá kontakty pro uplatnění ihned po ukončení
+                studia a získání titulu Bc.
+                Organizace a firmy, u kterých bude probíhat odborná praxe, představují potencionální zaměstnavatele, a mohou si tím
+                pádem ovlivňovat výchovu talentovaných studentů předem si je vybírat a motivovat pro další práci. </charakteristika_praxe>
+            <rozsah_tydny>12</rozsah_tydny>
+            <rozsah_hodiny>240</rozsah_hodiny>
+            <pracoviště_praxe>
+                <pracoviště název_pracoviště="Bratři v triku" zajištěnost_smlouvy="false"/>
+                <pracoviště název_pracoviště="Animované studio VFX Plus " zajištěnost_smlouvy="false"/>
+                <pracoviště název_pracoviště="Multimediální agentura ArtVizion" zajištěnost_smlouvy="false"/>
+                <pracoviště název_pracoviště="Televizní stanice TV Nova" zajištěnost_smlouvy="false"/>
+                <pracoviště název_pracoviště="Digitální agentura Digimaster" zajištěnost_smlouvy="false"/>
+                <pracoviště název_pracoviště="Reklamní agentura AdArt" zajištěnost_smlouvy="false"/>
+            </pracoviště_praxe> 
+        </praxe>
+        <související_činnost>            
+            <profesně>
+                <pracoviště>Pracoviště 1</pracoviště>
+                <název>Projekt C</název>
+                <od>07/2022</od>
+                <do>09/2023</do>
+            </profesně>
+            <profesně>
+                <pracoviště>Pracoviště 2</pracoviště>
+                <název>Projekt D</název>
+                <od>01/2023</od>
+                <do>12/2023</do>
+            </profesně>
+            <odborné_aktivity>Studijní program je navržen v souladu s tvůrčí činností uskutečňovanou na fakultě
+                a zabezpečujícím ústavu. Relevance této činnosti je doložena v akreditačních materiálech v rámci publikačních výstupů
+                jednotlivých garantů předmětů.
+                Veškeré projekty tvůrčí činnosti řešené na fakultě jsou orientovány do oblasti animované tvorby a souvisejících aplikačních oblastí.</odborné_aktivity>
+            <praxe_spolupráce>Praxe a spolupráce</praxe_spolupráce>
+        </související_činnost>
+        <informační_zabezpečení>
+            <název_popis>Studentům je zajištěn přímý přístup k výpočetní technice a Internetu. V prostorách fakulty mohou studenti využívat asi 100
+                PC přístupných v otevřených internetových studovnách, přístup k Internetu je v rámci všech prostor fakulty k dispozici i v
+                rámci výkonného WiFi připojení.</název_popis>
+            <literatura>Síť knihoven tvoří Ústřední knihovna a 8 fakultních knihoven, které spravují cca 250 tis. knihovních jednotek, ročně se
+                realizuje cca 120 tis. výpůjček. Ústřední knihovna provozuje integrovaný knihovní systém Aleph. Akviziční politiky
+                jednotlivých knihoven sledují odborné profily fakult
+                a zabezpečují tak relevantnost a aktuálnost knihovního fondu (https://www.idnes.cz/zpravy/zahranicni/irak-rakety-jemen-lod-amerika.A231019_212200_zahranicni_vlc). Registrace pro studenty
+                a zaměstnance školy je zdarma a provedena automaticky (integrací s IS VUT), pro externí čtenáře za roční poplatek.
+                Otevírací doba je průměrně 43 hodin týdně.
+                Ústřední knihovna spravuje elektronické zdroje tematicky pokrývající širokou škálu oborů vyučovaných na VUT v Brně.
+                Jedná se o více než dvacet plnotextových a pět bibliografických nebo faktografických databází. Díky discovery systému
+                Primo lze prohledávat většinu zdrojů (včetně souborného katalogu a Digitální knihovny) z jednoho místa. Vzdálený přístup
+                je zajištěn pomocí linkovací služby SFX a proxy serveru EZproxy. Díky tomu jsou e-zdroje dostupné odkudkoliv 24 hodin
+                denně, 7 dní v týdnu. (Dostupné na: Ústřední knihovna https://www.vutbr.cz/uk).
+                Ústřední knihovna spravuje Digitální knihovnu – depozitář závěrečných prací, časopisů vydávaných VUT, konferenčních
+                sborníků a individuální publikační činnosti vědeckých a akademických pracovníků (celkem více než 50 tis. plných textů)</literatura>
+            <databáze>https://knihovna.ujep.cz/en/databaze-dle-oboru</databáze>
+            <antiplag_systém>Systém detekce plagiátů VUT poskytuje vedoucím závěrečných prací užitečný nástroj pro odhalování plagiátorů. Princip
+                rozpoznání podobností v textu je postaven na důkladné segmentaci textu do jednotlivých vět a jejich následným
+                zpracováním gramatickým a syntaktickým analyzátorem. V současné době jsou podporovány texty v českém,
+                slovenském a anglickém jazyce. Z principu použití gramatického analyzátoru vyplývá, že odhalené podobnosti v textu
+                nejsou detekovány na základě strojové podobnosti (většina systému na detekci plagiátů), ale dalo by říci, že systém
+                rozumí obsahu a formulaci věty.
+                Podrobný popis naleznete na http://i.vutbr.cz/download/akreditace/popis_antiplagiatorskeho_systemu_VUT.pdf</antiplag_systém>
+        </informační_zabezpečení>
+        <materiální_zabezpečení>
+            <místo>Fakulta umění a designu, Univerzita Jana Evangelisty Purkyně, Ústí nad Labem</místo>            
+            <výukové_místnosti>
+                <specifikace_kapacit>
+                    <učebna_kapacita název="Posluchárna 1" kapacita="30" />
+                    <pronájem>0</pronájem>
+                    <platnost_nájmu></platnost_nájmu>
+                </specifikace_kapacit>
+                <specifikace_kapacit>
+                    <učebna_kapacita název="Posluchárna 2" kapacita="30" />
+                    <pronájem>0</pronájem>
+                    <platnost_nájmu></platnost_nájmu>
+                </specifikace_kapacit>
+            </výukové_místnosti>            
+            <odborné_učebny>
+                <specifikace_kapacit>
+                    <učebna_kapacita název="Ateliér 1" kapacita="25" />
+                    <pronájem>10</pronájem>
+                    <platnost_nájmu>2023-11-30</platnost_nájmu>
+                </specifikace_kapacit>
+                <specifikace_kapacit>
+                    <učebna_kapacita název="Ateliér 2" kapacita="35" />
+                    <pronájem>10</pronájem>
+                    <platnost_nájmu>2023-11-30</platnost_nájmu>
+                </specifikace_kapacit>
+            </odborné_učebny>
+            <hygiena></hygiena>
+            <rovný_přístup></rovný_přístup>
+        </materiální_zabezpečení>
+        <finanční_zabezpečení státní_rozpočet="true">
+            <zhodnocení></zhodnocení>
+        </finanční_zabezpečení>
+        <plány>
+            <plán id="Plan1" tmpl:merge="plan_animace1">
+                <označení>Plán 1</označení>
+                <skupiny>
+                    <skupina_id>Skupina1</skupina_id>
+                    <skupina_id>Skupina2</skupina_id>
+                </skupiny>
+                <součásti_szz>
+                    <html_text>
+                        Státní závěrečná zkouška se skládá ze dvou částí, a to z obhajoby bakalářské práce a z ústní odborné zkoušky. Ústní
+                        odborná zkouška se skládá ze dvou okruhů, které spadají do následujících oblastí:
+                        <ul>
+                            <li> 1. Světová část
+                                <li>okruh je tvořen otázkami z historie světové animace (počátky animace ve světě a významné tvůrce, Raná tvorba Walta Disneyho do roku 1942, Tvorba UPA, 
+                                    Animace zemí střední a východní Evropy - Slovensko, Maďarsko, Polsko, Animace Velké Británie, Animace Francie a Itálie, 
+                                    National Film Board of Canada, Nezávislá newyorská animační škola + významná americká animační velko-studia posledních let,
+                                    Japonská autorská animace)</li>
+                            </li>                            
+                            <li> 2. Česká část
+                                <li>okruh tvoří otázky z historie české animace (Počátky animace v Čechách, Loutková tvorba Jiřího Trnky a Vlasty Pospíšilové, Hermína Týrlová, Karel Zeman,
+                                    Loutková tvorba Břetislava Pojara + Václav Mergl, Pavel Procházka, Miroslav Štěpánek, Jiří Brdečka + významní výtvarníci a výtvarnice československé animace,
+                                    Instituce Krátkého filmu a její významné autorské osobnosti na poli animace,
+                                    Fenomén československého večerníčku, významní autoři a autorky, výtvarníci a výtvarnice, 
+                                    Jan Švankmajer, Jiří Barta a česká animace na přelomu 80. a 90. let,
+                                    Nenarativní česká animace na pomezí výtvarných a jiných umění)</li>
+                             </li>                     
+                        </ul>
+                    </html_text>
+                </součásti_szz>
+                <návrhtémat>
+                    <téma>Vývoj techniky stop-motion animace ve světle moderních technologií</téma>
+                    <téma>Analýza estetických prvků v animovaných filmech studia Ghibli</téma>
+                    <téma>Vývoj a vliv počítačové animace na tradiční 2D animaci</téma>
+                    <téma>Animovaná propagace v reklamě a marketingu</téma>
+                    <téma>Psychologické aspekty postav v animaci</téma>
+                    <téma>Vliv kultury na tvorbu animace: porovnání japonského a západního animačního stylu</téma>
+                    <téma>Tvorba interaktivních animovaných her</téma>                
+                </návrhtémat>                
+                <studijnípovinnosti>nejsou</studijnípovinnosti>               
+            </plán>
+            <plán id="Plan2" tmpl:merge="plan_animace2">
+                <označení>Plán 2</označení>
+                <skupiny>
+                    <skupina_id>Skupina1</skupina_id>                    
+                </skupiny>
+                <součásti_szz>
+                    <html_text>
+                        <b>Státní závěrečná zkouška</b> se skládá ze dvou částí, a to z obhajoby bakalářské práce a z ústní odborné zkoušky. Ústní
+                        odborná zkouška se skládá ze dvou okruhů, které spadají do následujících oblastí:
+                        <ul>
+                            <li> 1. Světová část
+                                <li>okruh je tvořen otázkami z historie světové animace (počátky animace ve světě a významné tvůrce, Raná tvorba Walta Disneyho do roku 1942, Tvorba UPA, 
+                                    Animace zemí střední a východní Evropy - Slovensko, Maďarsko, Polsko, Animace Velké Británie, Animace Francie a Itálie, 
+                                    National Film Board of Canada, Nezávislá newyorská animační škola + významná americká animační velko-studia posledních let,
+                                    Japonská autorská animace)</li>
+                            </li>
+                            <li> 2. Česká část
+                                <li>okruh tvoří otázky z historie české animace (Počátky animace v Čechách, Loutková tvorba Jiřího Trnky a Vlasty Pospíšilové, Hermína Týrlová, Karel Zeman,
+                                    Loutková tvorba Břetislava Pojara + Václav Mergl, Pavel Procházka, Miroslav Štěpánek, Jiří Brdečka + významní výtvarníci a výtvarnice československé animace,
+                                    Instituce Krátkého filmu a její významné autorské osobnosti na poli animace,
+                                    Fenomén československého večerníčku, významní autoři a autorky, výtvarníci a výtvarnice, 
+                                    Jan Švankmajer, Jiří Barta a česká animace na přelomu 80. a 90. let,
+                                    Nenarativní česká animace na pomezí výtvarných a jiných umění)</li>
+                             </li>                     
+                        </ul>
+                    </html_text>
+                </součásti_szz>
+                <návrhtémat>
+                    <téma>Vývoj techniky stop-motion animace ve světle moderních technologií</téma>
+                    <téma>Analýza estetických prvků v animovaných filmech studia Ghibli</téma>
+                    <téma>Vývoj a vliv počítačové animace na tradiční 2D animaci</téma>
+                    <téma>Animovaná propagace v reklamě a marketingu</téma>
+                    <téma>Psychologické aspekty postav v animaci</téma>
+                    <téma>Vliv kultury na tvorbu animace: porovnání japonského a západního animačního stylu</téma>
+                    <téma>Tvorba interaktivních animovaných her</téma>                
+                </návrhtémat>
+                <studijnípovinnosti>nejsou</studijnípovinnosti>
+            </plán>
+        </plány>
+        <skupiny_předmětů>
+            <skupina_předmětů id="Skupina1">
+                <typ>pk</typ>
+                <označení>Skupina předmětů 1</označení>
+                <předměty>
+                    <předmět_id>P001</předmět_id>
+                    <předmět_id>P002</předmět_id>
+                </předměty>
+            </skupina_předmětů>
+            <skupina_předmětů id="Skupina2">
+                <typ>pvk</typ>
+                <označení>Skupina předmětů 2</označení>
+                <předměty>
+                    <předmět_id>P003</předmět_id>
+                </předměty>
+                <podmínky_splnění>huhuhaha</podmínky_splnění>
+            </skupina_předmětů>            
+        </skupiny_předmětů>
+        <předměty>
+            <předmět id="P001" tmpl:merge="animace_teorie">
+                <název>Animace a teorie</název>
+                <typ>ZT</typ>
+                <ročník>1</ročník>
+                <semestr>ZS</semestr>
+                <počet_kreditů>5</počet_kreditů>
+                <ověření_výsledků>zkouška</ověření_výsledků>
+                <forma_ověření>Písemná zkouška</forma_ověření>
+                <výuka>
+                    <plán id="PL001">
+                        <!--přednáška a cvičení: nadřazené elementy nad paraskupinou-->
+                        <přednáška>
+                            <specifikace_výuky>
+                                <rozsah jednotka="h/týden">
+                                    <počet>2</počet>                                        
+                                </rozsah>
+                                <vyučující_ref>V001</vyučující_ref>
+                            </specifikace_výuky>
+                        </přednáška>                                                
+                        <cvičení>
+                            <paralelní_skupina>
+                                <specifikace_výuky>
+                                    <rozsah jednotka="h/týden">
+                                        <počet>1</počet>                                        
+                                    </rozsah>
+                                    <vyučující_ref>V002</vyučující_ref>
+                                </specifikace_výuky>                          
+                            </paralelní_skupina>
+                            <paralelní_skupina>
+                                <specifikace_výuky>
+                                    <rozsah jednotka="h/týden">
+                                        <počet>1</počet>                                        
+                                    </rozsah>
+                                    <vyučující_ref>V003</vyučující_ref>
+                                </specifikace_výuky>                          
+                            </paralelní_skupina>                                               
+                        </cvičení>                        
+                    </plán>
+                </výuka>
+                <anotace>
+                    <html_text>
+                        <p> Tento předmět se zaměřuje na základní principy animace a teoretické koncepty, které stojí za tvorbou pohyblivých obrázků. 
+                            Studenti budou zkoumat historii animace, různé animační techniky a estetické aspekty animovaného vyprávění. 
+                            Praktické cvičení bude doplněno teoretickými diskuzemi o vývoji animace a jejím vlivu na filmovou tvorbu.</p>
+                    </html_text>
+                </anotace>
+                <garant_ref>V001</garant_ref>
+                <studijníliteratura>https://fud.ujep.cz/aktualne/69093/</studijníliteratura>
+                <konzultace>
+                    <rozsah>2</rozsah>
+                    <info>Konzultační hodiny po domluvě s vyučujícím.</info>
+                </konzultace>
+            </předmět>
+            <předmět id="P002" tmpl:merge="techniky_stopmotion">
+                <název>Techniky stop-motion animace</název>
+                <typ>ZT</typ>
+                <ročník>1</ročník>
+                <semestr>LS</semestr>
+                <počet_kreditů>6</počet_kreditů>
+                <prerekvizity>P001</prerekvizity>
+                <ověření_výsledků>zápočet se zkouškou</ověření_výsledků>
+                <forma_ověření>Praktická práce</forma_ověření>
+                <výuka>
+                    <plán id="PL002">
+                        <!--mělo by být více vyučujících-->                       
+                        <cvičení>
+                            <paralelní_skupina>
+                                <specifikace_výuky>
+                                    <rozsah jednotka="h/týden">
+                                        <počet>2</počet>                                        
+                                    </rozsah> <!--možná dát jednotky jako atribut; hotovo-->
+                                    <vyučující_ref>V002</vyučující_ref>
+                                </specifikace_výuky>
+                            </paralelní_skupina>
+                            <paralelní_skupina>
+                                <specifikace_výuky>
+                                    <rozsah jednotka="h/týden">
+                                        <počet>2</počet>                                        
+                                    </rozsah> <!--možná dát jednotky jako atribut; hotovo-->
+                                    <vyučující_ref>V001</vyučující_ref>
+                                </specifikace_výuky>
+                            </paralelní_skupina>
+                        </cvičení>                       
+                    </plán>
+                </výuka>
+                <anotace>
+                    <html_text>
+                        <p> Tento předmět se zabývá technikami stop-motion animace, což je speciální forma animace, kde se pohybující objekty snímají postupnými obrázky. 
+                            Studenti se naučí základy stop-motion animace, včetně tvorby loutek, osvětlení a kompozice snímků. 
+                            Praktické cvičení bude zahrnovat vytvoření vlastního stop-motion animačního projektu.</p> 
+                    </html_text>
+                </anotace>
+                <garant_ref>V002</garant_ref>
+                <studijníliteratura></studijníliteratura>
+                <konzultace>
+                    <rozsah>2</rozsah>
+                    <info>Konzultační hodiny po domluvě s vyučujícím.</info>
+                </konzultace>
+            </předmět> 
+            <předmět id="P003" tmpl:merge="postprodukce_digiefekty">
+                <název>Filmová postprodukce a digitální efekty</název>
+                <typ>ZT</typ>
+                <ročník>2</ročník>
+                <semestr>ZS</semestr>
+                <počet_kreditů>4</počet_kreditů>
+                <ověření_výsledků>zápočet</ověření_výsledků>
+                <forma_ověření>Projekt</forma_ověření>
+                <výuka>
+                    <plán id="PL003">
+                        <seminář>
+                            <specifikace_výuky>
+                                <rozsah jednotka="h/týden">
+                                    <počet>2</počet>                                        
+                                </rozsah>
+                                <vyučující_ref>V003</vyučující_ref>
+                            </specifikace_výuky>
+                        </seminář>
+                    </plán>
+                </výuka>
+                <anotace>
+                    <html_text>
+                        <p>Tento předmět se zaměřuje na proces filmové postprodukce a využití digitálních efektů ve filmovém průmyslu. 
+                            Studenti se seznámí s nástroji a softwarem používanými v postprodukčním procesu, včetně střihu, zvuku a vizuálních efektů. 
+                            Praktická část kurzu zahrnuje vytváření digitálních efektů a úpravu filmových scén.</p>
+                    </html_text>
+                </anotace>
+                <garant_ref>V001</garant_ref>
+                <studijníliteratura>Chemie pro začátečníky</studijníliteratura>
+                <konzultace>
+                    <rozsah>2</rozsah>
+                    <info>Konzultační hodiny po domluvě s vyučujícím.</info>
+                </konzultace>
+            </předmět>      
+        </předměty>
+        <učitelé>
+            <vyučující id="V001">
+                <jméno_příjmení>Jan Novák</jméno_příjmení>
+                <rok_narození>1980</rok_narození>
+                <typ_vztahu>PP</typ_vztahu>
+                <tituly_před>Mgr.</tituly_před>
+                <tituly_za>Ph.D.</tituly_za>
+                <vš_vztah>                   
+                    <rozsah>20</rozsah>
+                    <dokdy>N</dokdy>                    
+                </vš_vztah>
+                <součástvš_vztah>
+                    <typ_vztahu>PP</typ_vztahu>
+                    <rozsah>10</rozsah>
+                    <dokdy>N</dokdy>
+                </součástvš_vztah>
+                <jiné_vš>
+                    <název_sídlo>Univerzita ABC</název_sídlo>
+                    <typ_vztahu>PP</typ_vztahu>
+                    <rozsah>8</rozsah>
+                </jiné_vš>
+                <jiné_vš>
+                    <název_sídlo>Univerzita DEF</název_sídlo>
+                    <typ_vztahu>DPP</typ_vztahu>
+                    <rozsah>1</rozsah>
+                </jiné_vš>
+                <jiné_programy>
+                    <jiný_předmět>Výtvarné techniky I, II</jiný_předmět>
+                    <jiný_program>Výtvarná umění</jiný_program>
+                    <semestr>ZS</semestr>
+                    <role>přednášející</role>
+                    <počet_hodin>4</počet_hodin>
+                </jiné_programy>               
+                <vzdělání>
+                    <studium>
+                        <vš_fakulta>Filmová a televizní fakulta Akademie múzických umění v Praze</vš_fakulta>
+                        <studijní_program>Animovaná tvorba</studijní_program>
+                        <obor></obor>
+                        <max_vzdělání>Bc.</max_vzdělání>
+                        <od>2000</od>
+                        <do>2003</do>
+                    </studium>
+                    <studium>
+                        <vš_fakulta>Tokyo University of the Arts</vš_fakulta>
+                        <studijní_program>Animation</studijní_program>
+                        <obor></obor>
+                        <max_vzdělání>Mgr.</max_vzdělání>
+                        <od>2005</od>
+                        <do>2007</do>
+                    </studium>    
+                    <studium>
+                        <vš_fakulta>École Supérieure des Métiers Artistiques</vš_fakulta>
+                        <studijní_program>Animation</studijní_program>
+                        <obor></obor>
+                        <max_vzdělání>Ph.D.</max_vzdělání>
+                        <od>2015</od>
+                        <do>2021</do>
+                    </studium>                                  
+                </vzdělání>
+                <odborné_působení>
+                    <působení>
+                        <zaměstnavatel>Studio Ghibli</zaměstnavatel>
+                        <pozice>Animator</pozice>
+                        <od>2007</od>
+                        <do>2015</do>
+                        <typ_vztahu>PP</typ_vztahu>
+                    </působení>
+                </odborné_působení>
+                <odborné_působení>
+                    <působení>
+                        <zaměstnavatel>Walt Disney Animation Studios</zaměstnavatel>
+                        <pozice>Character Designer</pozice>
+                        <od>2017</od>
+                        <do>2021</do>
+                        <typ_vztahu>PP</typ_vztahu>
+                    </působení>
+                </odborné_působení>              
+                <zkušenosti>
+                    <bakalářská>5</bakalářská>
+                    <diplomová>2</diplomová>
+                </zkušenosti>                
+                <ohlasy>
+                    <wos>25</wos>
+                    <scopus>30</scopus>
+                    <ostatní>10</ostatní>
+                </ohlasy>
+                <publikační_činnost>Publikace v odborných časopisech v oblasti animace a vědeckého výzkumu.</publikační_činnost>
+                <zahraničí>Studijní pobyty v Německu a USA, kde se zaměřoval na animaci a filmovou tvorbu.</zahraničí>
+            </vyučující>
+            <vyučující id="V002">
+                <jméno_příjmení>Eva Nováková</jméno_příjmení>
+                <rok_narození>1985</rok_narození>
+                <typ_vztahu>DPP/DPČ</typ_vztahu>
+                <tituly_před>Mgr.</tituly_před>                
+                <vš_vztah>
+                    <rozsah>30</rozsah>
+                    <dokdy>N</dokdy>
+                </vš_vztah>               
+                <vzdělání>
+                    <studium>
+                        <vš_fakulta>Filmová a televizní fakulta Akademie múzických umění v Praze</vš_fakulta>
+                        <studijní_program>Animovaná tvorba</studijní_program>
+                        <obor></obor>
+                        <max_vzdělání>Bc.</max_vzdělání>
+                        <od>2004</od>
+                        <do>2008</do>
+                    </studium>
+                    <studium>
+                        <vš_fakulta>Univerzita Tomáše Bati ve Zlíně,
+                            Fakulta multimediálních komunikací</vš_fakulta>
+                        <studijní_program>Animovaná tvorba</studijní_program>
+                        <obor></obor>
+                        <max_vzdělání>Mgr.</max_vzdělání>
+                        <od>2008</od>
+                        <do>2010</do>
+                    </studium>  
+                    <studium>
+                        <vš_fakulta>Filmová a televizní fakulta Akademie múzických umění v Praze</vš_fakulta>
+                        <studijní_program>Animovaná tvorba</studijní_program>
+                        <obor></obor>
+                        <max_vzdělání>Ph.D.</max_vzdělání>
+                        <od>2012</od>
+                        <do></do>
+                    </studium>                  
+                </vzdělání>
+                <odborné_působení>
+                    <působení>
+                        <zaměstnavatel>Francouzský animační ateliér XYZ</zaměstnavatel>
+                        <pozice>Storyboard Artist</pozice>
+                        <od>2011</od>
+                        <do>2021</do>
+                        <typ_vztahu>PP</typ_vztahu>
+                    </působení>
+                </odborné_působení>                
+                <zkušenosti>
+                    <bakalářská>2</bakalářská>
+                </zkušenosti>
+                <ohlasy>
+                    <wos>20</wos>
+                    <scopus>28</scopus>
+                    <ostatní>12</ostatní>
+                </ohlasy>
+                <publikační_činnost>Publikace v odborných časopisech v oblasti animace a vědeckého výzkumu.</publikační_činnost>
+            </vyučující>
+            <vyučující id="V003">
+                <jméno_příjmení>Martin Svoboda</jméno_příjmení>
+                <rok_narození>1975</rok_narození>
+                <typ_vztahu>PP</typ_vztahu>
+                <tituly_před>Mgr.</tituly_před>
+                <tituly_za>Ph.D.</tituly_za>
+                <vš_vztah>
+                    <rozsah>35</rozsah>
+                    <dokdy>09/2024</dokdy>
+                </vš_vztah>   
+               
+                <vzdělání>
+                    <studium>
+                        <vš_fakulta>Ostravská univerzita, Fakulta umění</vš_fakulta>
+                        <studijní_program>Intermediální umění</studijní_program>
+                        <obor>Animovaná tvorba</obor>
+                        <max_vzdělání>Bc.</max_vzdělání>
+                        <od>1994</od>
+                        <do>1997</do>
+                    </studium>
+                    <studium>
+                        <vš_fakulta>Filmová a televizní fakulta Akademie múzických umění v Praze</vš_fakulta>
+                        <studijní_program>Animovaná tvorba</studijní_program>
+                        <obor></obor>
+                        <max_vzdělání>Mgr.</max_vzdělání>
+                        <od>1997</od>
+                        <do>1999</do>
+                    </studium>                    
+                </vzdělání>
+                <odborné_působení>
+                    <působení>
+                        <zaměstnavatel>Barrandov Studio</zaměstnavatel>
+                        <pozice>2D Animator</pozice>
+                        <od>2000</od>
+                        <do>2015</do>
+                        <typ_vztahu>PP</typ_vztahu>
+                    </působení>
+                </odborné_působení>               
+                <odborné_působení>
+                    <působení>
+                        <zaměstnavatel>Parallel Studio</zaměstnavatel>
+                        <pozice>3D Animator</pozice>
+                        <od>2015</od>
+                        <do>2019</do>
+                        <typ_vztahu>PP</typ_vztahu>
+                    </působení>
+                </odborné_působení>
+                <zkušenosti>
+                    <bakalářská>12</bakalářská>
+                    <diplomová>7</diplomová>
+                    <dizertační>2</dizertační>
+                </zkušenosti>               
+                <ohlasy>
+                    <wos>28</wos>
+                    <scopus>35</scopus>
+                    <ostatní>15</ostatní>
+                </ohlasy>
+                <publikační_činnost>Publikace v odborných časopisech v oblasti digitální animace a vědeckého výzkumu.</publikační_činnost>
+                <zahraničí>Studijní pobyty v Kanadě a Japonsku, kde se specializoval na digitální animaci.</zahraničí>
+            </vyučující>
+        </učitelé>
+    </program>
+    <sablony>
+        <plán xml:id="plan_animace1">
+                <označení>Plán 1</označení>
+                <skupiny_předmětů>
+                    <skupina_id>Skupina1</skupina_id>
+                    <skupina_id>Skupina2</skupina_id>
+                </skupiny_předmětů>
+                <součásti_szz>
+                    <html_text>
+                        
+                        Státní závěrečná zkouška se skládá ze dvou částí, a to z obhajoby bakalářské práce a z ústní odborné zkoušky. Ústní
+                    odborná zkouška se skládá ze dvou okruhů, které spadají do následujících oblastí:
+                    1. Světová část
+                    okruh je tvořen otázkami z historie světové animace (počátky animace ve světě a významné tvůrce, Raná tvorba Walta Disneyho do roku 1942, Tvorba UPA, 
+                    Animace zemí střední a východní Evropy - Slovensko, Maďarsko, Polsko, Animace Velké Británie, Animace Francie a Itálie, 
+                    National Film Board of Canada, Nezávislá newyorská animační škola + významná americká animační velko-studia posledních let,
+                    Japonská autorská animace)
+                    2. Česká část
+                    okruh tvoří otázky z historie české animace (Počátky animace v Čechách, Loutková tvorba Jiřího Trnky a Vlasty Pospíšilové, Hermína Týrlová, Karel Zeman,
+                    Loutková tvorba Břetislava Pojara + Václav Mergl, Pavel Procházka, Miroslav Štěpánek, Jiří Brdečka + významní výtvarníci a výtvarnice československé animace,
+                    Instituce Krátkého filmu a její významné autorské osobnosti na poli animace,
+                    Fenomén československého večerníčku, významní autoři a autorky, výtvarníci a výtvarnice, 
+                    Jan Švankmajer, Jiří Barta a česká animace na přelomu 80. a 90. let,
+                    Nenarativní česká animace na pomezí výtvarných a jiných umění)
+                    </html_text>
+                </součásti_szz>
+                <návrhtémat>
+                    <téma>Vývoj techniky stop-motion animace ve světle moderních technologií</téma>
+                    <téma>Analýza estetických prvků v animovaných filmech studia Ghibli</téma>
+                    <téma>Vývoj a vliv počítačové animace na tradiční 2D animaci</téma>
+                    <téma>Animovaná propagace v reklamě a marketingu</téma>
+                    <téma>Psychologické aspekty postav v animaci</téma>
+                    <téma>Vliv kultury na tvorbu animace: porovnání japonského a západního animačního stylu</téma>
+                    <téma>Tvorba interaktivních animovaných her</téma>                
+                </návrhtémat>                
+                <studijnípovinnosti>nejsou</studijnípovinnosti>               
+                <návrhtémat_rigorózní>
+                    <téma_rigorózní>Téma rigorózní</téma_rigorózní>
+                </návrhtémat_rigorózní>
+                <součásti_srz></součásti_srz>
+        </plán>           
+        <plán xml:id="plan_animace2">
+            <označení>Plán 2</označení>
+            <skupiny_předmětů>
+                <skupina_id>Skupina1</skupina_id>
+            </skupiny_předmětů>
+            <součásti_szz>
+                <html_text>
+                    Státní závěrečná zkouška se skládá ze dvou částí, a to z obhajoby bakalářské práce a z ústní odborné zkoušky. Ústní
+                    odborná zkouška se skládá ze dvou okruhů, které spadají do následujících oblastí:
+                    <ul>
+                        <li>1. Světová část
+                            okruh je tvořen otázkami z historie světové animace (počátky animace ve světě a významné tvůrce, Raná tvorba Walta Disneyho do roku 1942, Tvorba UPA, 
+                            Animace zemí střední a východní Evropy - Slovensko, Maďarsko, Polsko, Animace Velké Británie, Animace Francie a Itálie, 
+                            National Film Board of Canada, Nezávislá newyorská animační škola + významná americká animační velko-studia posledních let,
+                            Japonská autorská animace)</li>
+                        <li> 2. Česká část
+                            okruh tvoří otázky z historie české animace (Počátky animace v Čechách, Loutková tvorba Jiřího Trnky a Vlasty Pospíšilové, Hermína Týrlová, Karel Zeman,
+                            Loutková tvorba Břetislava Pojara + Václav Mergl, Pavel Procházka, Miroslav Štěpánek, Jiří Brdečka + významní výtvarníci a výtvarnice československé animace,
+                            Instituce Krátkého filmu a její významné autorské osobnosti na poli animace,
+                            Fenomén československého večerníčku, významní autoři a autorky, výtvarníci a výtvarnice, 
+                            Jan Švankmajer, Jiří Barta a česká animace na přelomu 80. a 90. let,
+                            Nenarativní česká animace na pomezí výtvarných a jiných umění)</li>                
+                    </ul>
+                    
+                </html_text>
+            </součásti_szz>
+            <návrhtémat>
+                <téma>Vývoj techniky stop-motion animace ve světle moderních technologií</téma>
+                <téma>Analýza estetických prvků v animovaných filmech studia Ghibli</téma>
+                <téma>Vývoj a vliv počítačové animace na tradiční 2D animaci</téma>
+                <téma>Animovaná propagace v reklamě a marketingu</téma>
+                <téma>Psychologické aspekty postav v animaci</téma>
+                <téma>Vliv kultury na tvorbu animace: porovnání japonského a západního animačního stylu</téma>
+                <téma>Tvorba interaktivních animovaných her</téma>                
+            </návrhtémat>
+            <studijnípovinnosti>nejsou</studijnípovinnosti>
+            <součásti_srz></součásti_srz>
+        </plán>
+        <předmět xml:id="animace_teorie">
+                <název>Animace a teorie</název>
+                <typ>ZT</typ>
+                <ročník>1</ročník>
+                <semestr>ZS</semestr>
+                <počet_kreditů>5</počet_kreditů>
+                <ověření_výsledků>zkouška</ověření_výsledků>
+                <forma_ověření>Písemná zkouška</forma_ověření>
+                <výuka>
+                    <plán id="PL001">
+                        <přednáška>
+                            <specifikace_výuky>
+                                <rozsah jednotka="h/týden">
+                                    <počet>2</počet>
+                                </rozsah>
+                                <vyučující_ref>V001</vyučující_ref>
+                            </specifikace_výuky>
+                        </přednáška>
+                        <cvičení>
+                            <specifikace_výuky>
+                                <rozsah jednotka="h/týden">
+                                    <počet>1</počet>
+                                </rozsah>
+                                <vyučující_ref>V002</vyučující_ref>
+                            </specifikace_výuky>
+                        </cvičení>                        
+                    </plán>
+                </výuka>
+                <anotace>
+                    <html_text>
+                        <p> Tento předmět se zaměřuje na základní principy animace a teoretické koncepty, které stojí za tvorbou pohyblivých obrázků. 
+                            Studenti budou zkoumat historii animace, různé animační techniky a estetické aspekty animovaného vyprávění. 
+                            Praktické cvičení bude doplněno teoretickými diskuzemi o vývoji animace a jejím vlivu na filmovou tvorbu.</p>
+                    </html_text>
+                </anotace>
+                <garant_ref>V001</garant_ref>
+                <studijníliteratura></studijníliteratura>
+                <konzultace>
+                    <rozsah>2</rozsah>
+                    <info>Konzultační hodiny po domluvě s vyučujícím.</info>
+                </konzultace>
+            </předmět>
+            <předmět xml:id="techniky_stopmotion">
+                <název>Techniky stop-motion animace</název>
+                <typ>ZT</typ>
+                <ročník>1</ročník>
+                <semestr>LS</semestr>
+                <počet_kreditů>6</počet_kreditů>
+                <ověření_výsledků>zápočet se zkouškou</ověření_výsledků>
+                <forma_ověření>Praktická práce</forma_ověření>
+                <výuka>
+                    <plán id="PL002">
+                        <cvičení>
+                            <paralelní_skupina>
+                                <specifikace_výuky>
+                                    <rozsah jednotka="h/týden">
+                                        <počet>2</počet>
+                                    </rozsah>
+                                    <vyučující_ref>V002</vyučující_ref>
+                                </specifikace_výuky>
+                            </paralelní_skupina>                           
+                            <paralelní_skupina>
+                                <specifikace_výuky>
+                                    <rozsah jednotka="h/týden">
+                                        <počet>2</počet>
+                                    </rozsah>
+                                    <vyučující_ref>V002</vyučující_ref>
+                                </specifikace_výuky>
+                            </paralelní_skupina>
+                        </cvičení>
+                    </plán>
+                </výuka>
+                <anotace>
+                    <html_text>
+                        <p> Tento předmět se zabývá technikami stop-motion animace, což je speciální forma animace, kde se pohybující objekty snímají postupnými obrázky. 
+                            Studenti se naučí základy stop-motion animace, včetně tvorby loutek, osvětlení a kompozice snímků. 
+                            Praktické cvičení bude zahrnovat vytvoření vlastního stop-motion animačního projektu.</p>
+                    </html_text>
+                </anotace>
+                <garant_ref>V002</garant_ref>
+                <studijníliteratura></studijníliteratura>
+                <konzultace>
+                    <rozsah>2</rozsah>
+                    <info>Konzultační hodiny po domluvě s vyučujícím.</info>
+                </konzultace>
+            </předmět> 
+            <předmět xml:id="postprodukce_digiefekty">
+                <název>Filmová postprodukce a digitální efekty</název>
+                <typ>ZT</typ>
+                <ročník>2</ročník>
+                <semestr>ZS</semestr>
+                <počet_kreditů>4</počet_kreditů>
+                <ověření_výsledků>zápočet</ověření_výsledků>
+                <forma_ověření>Projekt</forma_ověření>
+                <výuka>
+                    <plán id="PL003">
+                            <seminář>
+                                <specifikace_výuky>
+                                    <rozsah jednotka="h/týden">
+                                        <počet>2</počet>
+                                    </rozsah>
+                                    <vyučující_ref>V003</vyučující_ref>
+                                </specifikace_výuky>
+                            </seminář>
+                    </plán>
+                </výuka>
+                <anotace>
+                    <html_text>
+                        <p>Tento předmět se zaměřuje na proces filmové postprodukce a využití digitálních efektů ve filmovém průmyslu. 
+                            Studenti se seznámí s nástroji a softwarem používanými v postprodukčním procesu, včetně střihu, zvuku a vizuálních efektů. 
+                            Praktická část kurzu zahrnuje vytváření digitálních efektů a úpravu filmových scén.</p>
+                    </html_text>
+                </anotace>
+                <garant_ref>V001</garant_ref>
+                <studijníliteratura>Chemie pro začátečníky</studijníliteratura>
+                <konzultace>
+                    <rozsah>2</rozsah>
+                    <info>Konzultační hodiny po domluvě s vyučujícím.</info>
+                </konzultace>
+            </předmět>    
+    </sablony>    
+</žádost>
